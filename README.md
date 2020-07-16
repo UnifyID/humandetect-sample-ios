@@ -15,7 +15,7 @@
   ```
 
 ## C. Generate Mobile SDK Key
-* Follow the [Getting Started Guide](https://developer.unify.id/docs/get-started/) to create an account on the [Developer Portal](https://dashboard.unify.id/account/sign-up).
+* Follow the [Getting Started Guide](https://developer.unify.id/docs/get-started/) to create an account on the [UnifyID Developer Portal](https://dashboard.unify.id/account/sign-up).
 * Generate an SDK key using the developer portal.
 * Add your SDK key at the top of `AppDelegate.swift`.
 
@@ -29,5 +29,5 @@
 The iOS app is now ready! Open XCode and build/run the app on a physical device. Please note that a simulator will not work because a camera and physical sensors (for HumanDetect algorithms) are required.
 
 Feel free to check out the following links for more info:
-* Blog post on Medium
+* Blog post on the [UnifyID blog](https://blog.unify.id/)
 * [HumanDetect documentation](https://developer.unify.id/docs/humandetect/)
