@@ -6,7 +6,7 @@ import UIKit
 import UnifyID
 
 let unify : UnifyID = { try! UnifyID(
-    sdkKey: "https://ff447c8301ea7b54abaf2b50bc38e38d@config.unify.id"
+    sdkKey: "<YOUR SDK KEY>"
 )}()
 
 @UIApplicationMain

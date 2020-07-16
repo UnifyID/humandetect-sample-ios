@@ -5,7 +5,7 @@
 import UIKit
 import HumanDetect
 
-let flaskURL = "http://humandetect-example-flask.herokuapp.com/"
+let flaskURL = "<URL OF YOUR FLASK APP>"
 let humanDetect = unify.humanDetect
 var vSpinner : UIView?
 

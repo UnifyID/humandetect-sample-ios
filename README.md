@@ -11,7 +11,7 @@
 * Set the `flaskURL` variable at the top of `ViewController.swift` to the URL that your Flask app is deployed at.
 
   ```
-  let flaskURL = "[URL of your Flask app]"
+  let flaskURL = "<URL OF YOUR FLASK APP>"
   ```
 
 ## C. Generate Mobile SDK Key
@@ -21,7 +21,7 @@
 
   ```
   let unify : UnifyID = { try! UnifyID(
-    sdkKey: "[YOUR SDK KEY]"
+    sdkKey: "<YOUR SDK KEY>"
   )}()
   ```
 
