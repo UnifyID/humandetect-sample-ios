@@ -7,7 +7,7 @@
 * iOS >= 13.0.0
 
 ## B. Set up Flask server
-* Follow the instructions for the "HumanDetect Example Flask app" to set up the corresponding backend for this project.
+* Follow the instructions for the [HumanDetect Example Flask app](https://github.com/UnifyID/humandetect-sample-flask) to set up the corresponding backend for this project.
 * Set the `flaskURL` variable at the top of `ViewController.swift` to the URL that your Flask app is deployed at.
 
   ```
